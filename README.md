@@ -15,4 +15,4 @@ npx hardhat help
 ```
 
 ## Questions?
-Have some questions make sure you head over to your buildspace Dashboard and link your Discord account so you can get access to helpful channels and your instructor!
+Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b) and link your Discord account so you can get access to helpful channels and your instructor!
