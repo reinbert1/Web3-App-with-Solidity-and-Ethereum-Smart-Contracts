@@ -6,8 +6,8 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
  1. Go to my [wave-portal](https://waveportal-starter-project.reinbertvan.repl.co/).
  2. Make sure you have a [Metamask wallet](https://metamask.io/) and connect your wallet.
  3. Make sure you are on the right network on Metamask. Choose for Rinkeby testnetwork.
- 4. Getting some fake ether 💲.
-    - There are a few testnets out there and the one we'll be using is called "Rinkeby" which is run by the Ethereum foundation.
+ 4. 🤑 Getting some fake ether. 💲
+    - There are a few testnets 🕸️ out there and the one we'll be using is called "Rinkeby" which is run by the Ethereum foundation.
     
     - In order to deploy to Rinkeby, we need fake ether. Why? Because if you were deploying to the actual Ethereum mainnet, you'd use real money! So, testnets copy how mainnet     works, only difference is no real money is involved.
 
