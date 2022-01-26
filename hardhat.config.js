@@ -21,7 +21,7 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
   networks: {
     rinkeby: {
       url: "https://eth-rinkeby.alchemyapi.io/v2/MLtmi_sJSdBmG-UyqBuHLRAhsCyYkP6y",
-      accounts: ["228f8444c3f83cf58276bad52c383bbf017a52f64ae13f3973f8d952440ba919"],
+      accounts: ["{accountNumber}"],
     },
   },
 };
